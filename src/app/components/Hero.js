@@ -4,7 +4,7 @@ export default function Hero() {
   return (
     <section
       id="home"
-      className="relative min-h-screen flex items-center pt-24 pb-20 bg-black/40"
+      className="relative min-h-screen flex items-center pt-24 bg-gradient-to-b from-[#0b0f17] via-[#0c1320] to-[#0b0f17] pb-20 bg-black/40"
     >
       <div className="max-w-7xl mx-auto px-6 lg:px-8 grid lg:grid-cols-2 gap-12 items-center">
 
