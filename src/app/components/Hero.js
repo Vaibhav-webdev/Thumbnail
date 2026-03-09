@@ -11,7 +11,7 @@ export default function Hero() {
         {/* LEFT CONTENT */}
         <div className="space-y-6">
 
-          <p className="text-lg hidden lg:flex text-gray-300">
+          <p className="text-lg text-gray-300">
             Hello<span className="text-orange-400">.</span>
           </p>
 
@@ -19,7 +19,7 @@ export default function Hero() {
             I'm Vaibhav
           </h2>
 
-          <h1 className="text-5xl md:text-6xl font-bold leading-tight">
+          <h1 className="text-5xl md:text-6xl text-white font-bold leading-tight">
             Professional{" "}
             <span className="text-white">Thumbnail</span>
             <span className="text-orange-400"> Designer</span>
