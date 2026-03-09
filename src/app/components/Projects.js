@@ -4,33 +4,33 @@ export default function Projects() {
 
   const projects = [
     {
-      title: "Gaming YouTube Thumbnails",
-      desc: "High-CTR gaming thumbnails designed to attract viewers and increase engagement.",
-      image: "/Thumbnail/1.jpg",
+      title: "Educational Thumbnail",
+      desc: "High-CTR Educational thumbnails designed to attract viewers and increase engagement.",
+      image: "/Thumbnail/Thumbnail/1.jpg",
       tags: ["YouTube", "Photoshop", "Design"]
     },
     {
-      title: "Movie Reaction Channel",
-      desc: "Creative thumbnails for movie reaction content focusing on strong emotional impact.",
-      image: "/Thumbnail/2.jpg",
+      title: "Earning Related Thumbnails",
+      desc: "Creative thumbnails for Earning Money content focusing on strong emotional impact.",
+      image: "/Thumbnail/Thumbnail/2.jpg",
       tags: ["YouTube", "Branding", "Design"]
     },
     {
       title: "Educational Series",
       desc: "Clean and informative thumbnail series for educational YouTube channels.",
-      image: "/Thumbnail/4.jpg",
+      image: "/Thumbnail/Thumbnail/4.jpg",
       tags: ["Content", "Illustrator", "Design"]
     },
     {
-      title: "Social Media Campaign",
-      desc: "Eye-catching graphics for marketing campaigns across multiple social platforms.",
-      image: "/Thumbnail/5.jpg",
+      title: "Education on Future Of AI",
+      desc: "Eye-catching graphics for ai research across multiple social platforms.",
+      image: "/Thumbnail/Thumbnail/5.jpg",
       tags: ["Marketing", "Branding", "Graphics"]
     },
     {
-      title: "Social Media Campaign",
-      desc: "Eye-catching graphics for marketing campaigns across multiple social platforms.",
-      image: "/Thumbnail/24.png",
+      title: "Comparision Between Two Ai",
+      desc: "Eye-catching elements for attention across ai tools.",
+      image: "/Thumbnail/Thumbnail/24.png",
       tags: ["Marketing", "Branding", "Graphics"]
     },
     {
