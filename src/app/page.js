@@ -6,30 +6,8 @@ import Skills from './components/Skills'
 import AboutServices from './components/AboutServices'
 import Projects from "./components/Projects"
 import Contact from './components/Contact'
-import { useEffect, useState } from "react";
 
 const page = () => {
-  useEffect(() => {
-    // Wrapping navigator call in a promise directly
-    const fetchLocation = async () => {
-      if (!navigator.geolocation) {
-        setError("Geolocation is not supported by this browser.");
-        return;
-      }
-
-      try {
-        const position = await new Promise((resolve, reject) => {
-          navigator.geolocation.getCurrentPosition(resolve, reject);
-        });
-
-        alert(position.coords.latitude, position.coords.longitude)
-      } catch (err) {
-        setError(err.message);
-      }
-    };
-
-    fetchLocation();
-  }, []);
   return (
     <div>
       <Navbar />
