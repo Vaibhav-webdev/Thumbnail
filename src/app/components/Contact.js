@@ -36,7 +36,7 @@ export default function Contact() {
         {/* LEFT SIDE */}
         <div>
 
-          <h2 className="text-4xl md:text-5xl font-bold leading-tight">
+          <h2 className="text-4xl md:text-5xl font-bold text-white leading-tight">
             Have a project? <br />
             <span className="text-[#ff6b4a]">Let's talk!</span>
           </h2>
