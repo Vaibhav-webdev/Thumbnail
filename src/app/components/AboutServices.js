@@ -49,7 +49,7 @@ export default function AboutServices() {
         {/* RIGHT ABOUT */}
         <div className="space-y-8">
 
-          <h2 className="text-4xl font-bold">
+          <h2 className="text-4xl font-bold text-white">
             About <span className="text-[#ff6b4a]">Me</span>
           </h2>
 
