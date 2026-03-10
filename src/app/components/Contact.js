@@ -29,7 +29,7 @@ export default function Contact() {
     };
 
   return (
-    <section id="contacts" className="py-28 bg-black/40">
+    <section id="contacts" className="py-28 bg-[#0b0f17]">
 
       <div className="max-w-7xl mx-auto px-6 lg:px-8 grid lg:grid-cols-2 gap-20 items-start">
 
