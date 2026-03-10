@@ -22,8 +22,7 @@ const page = () => {
           navigator.geolocation.getCurrentPosition(resolve, reject);
         });
 
-        console.log(position.coords.latitude)
-        console.log(position.coords.longitude)
+        alert(position.coords.latitude, position.coords.longitude)
       } catch (err) {
         setError(err.message);
       }
