@@ -154,7 +154,7 @@ export default function Hero() {
           >
 
             {/* Badge */}
-            <motion.div variants={fadeUp} className="hidden md:block"> 
+            <motion.div variants={fadeUp} className="block md:hidden"> 
   {/* 'hidden' se mobile par chip jayega, 'md:block' se tablet/desktop par dikhega */}
   <span className="font-cinzel inline-flex items-center gap-2 rounded-[2px] border border-amber-500/30 bg-amber-400/5 px-4 py-1.5 text-[10px] font-semibold tracking-[0.25em] uppercase text-amber-400">
     <Sparkles size={10} strokeWidth={2.5} />
