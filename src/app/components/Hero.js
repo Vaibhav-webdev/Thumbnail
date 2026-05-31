@@ -143,7 +143,7 @@ export default function Hero() {
         <div className="pointer-events-none absolute top-[30%] left-[28%] h-[220px] w-[220px] rounded-full bg-amber-400/5 blur-[90px]" />
 
         {/* ── MAIN GRID ── */}
-        <div className="relative z-10 mx-auto max-w-7xl w-full px-6 lg:px-12 grid lg:grid-cols-2 gap-10 items-center min-h-screen py-32 lg:py-32">
+        <div className="relative z-10 mx-auto max-w-7xl w-full px-6 lg:px-12 grid lg:grid-cols-2 gap-10 items-center min-h-screen py-32 lg:py-34 lg:pt-54">
 
           {/* ────────── LEFT CONTENT ────────── */}
           <motion.div
