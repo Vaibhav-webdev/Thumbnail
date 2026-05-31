@@ -63,21 +63,6 @@ export default function Contact() {
             If you need high-CTR thumbnails or creative graphics, feel free
             to reach out and let's build something amazing together.
           </p>
-
-          {/* Social Icons (Bonus UI Improvement) */}
-          <div className="flex gap-4 mt-8">
-            {[Mail, Github, Linkedin, Instagram].map((Icon, index) => (
-              <motion.a
-                key={index}
-                href="#"
-                whileHover={{ scale: 1.1, y: -3 }}
-                whileTap={{ scale: 0.95 }}
-                className="w-12 h-12 rounded-full bg-white/5 border border-white/10 flex items-center justify-center text-gray-400 hover:text-[#ff6b4a] hover:border-[#ff6b4a]/50 hover:bg-[#ff6b4a]/10 transition-colors"
-              >
-                <Icon size={20} />
-              </motion.a>
-            ))}
-          </div>
         </motion.div>
 
         {/* RIGHT FORM - Animated from Right */}
