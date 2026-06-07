@@ -58,9 +58,9 @@ export default function Projects() {
     tags: ["Marketing", "Branding", "Graphics"]
   },
   {
-    title: "Cold Email Writing Guide Thumbnail",
-    desc: "A clear and impactful thumbnail designed for tutorials on writing high-converting cold emails.",
-    image: "/Thumbnail/Thumbnail/11.jpg",
+    title: "Youtube Script Writing Guide Thumbnail",
+    desc: "A clear and impactful thumbnail designed for tutorials on writing high-converting youtube script.",
+    image: "/Thumbnail/Thumbnail/image thumbnail.png",
     tags: ["Marketing", "Branding", "Graphics"]
   },
   {
