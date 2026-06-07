@@ -10,10 +10,40 @@ export default function Projects() {
     tags: ["YouTube", "Photoshop", "Design"]
   },
   {
+    title: "Print on Demand Guide Thumbnail",
+    desc: "Engaging thumbnail design created for content explaining print-on-demand business fundamentals, strategies, and scaling techniques for aspiring entrepreneurs.",
+    image: "/Thumbnail/Thumbnail/23.jpg",
+    tags: ["Marketing", "Branding", "Graphics"]
+  },
+  {
+    title: "Client Closing Strategy Thumbnail",
+    desc: "Attention-grabbing thumbnail designed for sales training content, featuring proven strategies and techniques for closing client deals effectively.",
+    image: "/Thumbnail/Thumbnail/25.jpg",
+    tags: ["Marketing", "Branding", "Graphics"]
+  },
+  {
     title: "Money & Earning Niche Thumbnails",
     desc: "Creative thumbnails designed for money-making and online earning content, strategically using emotional triggers and strong visual hierarchy to maximize click-through potential.",
     image: "/Thumbnail/Thumbnail/2.jpg",
     tags: ["YouTube", "Branding", "Design"]
+  },
+  {
+    title: "Personal Lifestyle Improvement",
+    desc: "Professional self-improvement thumbnail design featuring motivational elements and personal development themes to inspire viewer engagement and click-through.",
+    image: "/Thumbnail/Thumbnail/Demo Thumbnail.png",
+    tags: ["Self-Improvement", "Lifestyle", "Design"]
+  },
+  {
+    title: "How to Choose Best Typography for Video",
+    desc: "Educational thumbnail guiding content creators on selecting optimal typography for videos, balancing readability, aesthetics, and brand consistency.",
+    image: "/Thumbnail/Thumbnail/Thumbnail Demo.png",
+    tags: ["Design", "Typography", "Tutorial"]
+  },
+  {
+    title: "10 Proven Ways to Earn Money from AI",
+    desc: "Professional thumbnail showcasing practical AI monetization strategies and income opportunities, designed to attract viewers interested in tech-based earnings.",
+    image: "/Thumbnail/Thumbnail/thumbnail_demo.png",
+    tags: ["AI", "Earning", "Tutorial"]
   },
   {
     title: "Educational Series Thumbnail Design",
@@ -31,18 +61,6 @@ export default function Projects() {
     title: "AI Tools Comparison Thumbnail",
     desc: "Bold and engaging comparison design showcasing two AI tools side-by-side, using strong visual contrast and color theory to grab viewer attention instantly.",
     image: "/Thumbnail/Thumbnail/24.png",
-    tags: ["Marketing", "Branding", "Graphics"]
-  },
-  {
-    title: "Print on Demand Guide Thumbnail",
-    desc: "Engaging thumbnail design created for content explaining print-on-demand business fundamentals, strategies, and scaling techniques for aspiring entrepreneurs.",
-    image: "/Thumbnail/Thumbnail/23.jpg",
-    tags: ["Marketing", "Branding", "Graphics"]
-  },
-  {
-    title: "Client Closing Strategy Thumbnail",
-    desc: "Attention-grabbing thumbnail designed for sales training content, featuring proven strategies and techniques for closing client deals effectively.",
-    image: "/Thumbnail/Thumbnail/25.jpg",
     tags: ["Marketing", "Branding", "Graphics"]
   },
   {
@@ -68,24 +86,6 @@ export default function Projects() {
     desc: "Professional documentary-style thumbnail designed to create intrigue and curiosity, encouraging viewers to explore compelling visual storytelling.",
     image: "/Thumbnail/Thumbnail/12.jpg",
     tags: ["Marketing", "Branding", "Graphics"]
-  },
-  {
-    title: "Personal Lifestyle Improvement",
-    desc: "Professional self-improvement thumbnail design featuring motivational elements and personal development themes to inspire viewer engagement and click-through.",
-    image: "/Thumbnail/Thumbnail/Demo Thumbnail.png",
-    tags: ["Self-Improvement", "Lifestyle", "Design"]
-  },
-  {
-    title: "How to Choose Best Typography for Video",
-    desc: "Educational thumbnail guiding content creators on selecting optimal typography for videos, balancing readability, aesthetics, and brand consistency.",
-    image: "/Thumbnail/Thumbnail/Thumbnail Demo.png",
-    tags: ["Design", "Typography", "Tutorial"]
-  },
-  {
-    title: "10 Proven Ways to Earn Money from AI",
-    desc: "Professional thumbnail showcasing practical AI monetization strategies and income opportunities, designed to attract viewers interested in tech-based earnings.",
-    image: "/Thumbnail/Thumbnail/thumbnail_demo.png",
-    tags: ["AI", "Earning", "Tutorial"]
   },
   {
     title: "Biography Video Thumbnail",
